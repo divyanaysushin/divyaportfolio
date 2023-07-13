@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../bootstrap/project"
+		},
+		{
+			"path": "../../../Foodhut Free Website Template - Free-CSS.com/foodhut"
+		},
+		{
+			"path": "../../bootstrap/workshop"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio"
+	}
+}
